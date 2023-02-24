@@ -9,7 +9,7 @@ app.use(morgan('combined'));
 
 
 app.get("/", (req,res)=>{
-    res.send('Hello Passakorn, Jiew');
+    res.send('Hello Passakorn, jiewpassakorn');
 })
 
 app.listen(port, ()=>{
