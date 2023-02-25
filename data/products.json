@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "productTitle": "Pencil",
+            "productPrice": 10,
+            "productDes": "2B Pencil"
+        },
+        {
+            "id": 1,
+            "productTitle": "Pen",
+            "productPrice": 15,
+            "productDes": "Blue Pen"
+        },
+        {
+            "id": 2,
+            "productTitle": "Eraser",
+            "productPrice": 10,
+            "productDes": "Rubber Eraser"
+        },
+        {
+            "id": 3,
+            "productTitle": "Ruler",
+            "productPrice": 5,
+            "productDes": "Plastic Ruler"
+        },
+        {
+            "id": 4,
+            "productTitle": "Notebook",
+            "productPrice": 20,
+            "productDes": "30 Page Notebook"
+        }
+    ]
+}
